@@ -1,0 +1,2 @@
+This is second file
+i wanna tests add and drop file
